@@ -5,8 +5,6 @@ import torchaudio
 import torch
 from SimpleCNN import SimpleCNN
 
-import wave
-
 num_classes = 9
 input_shape = (12, 34)
 
